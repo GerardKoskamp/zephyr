@@ -327,8 +327,8 @@ manifest:
       groups:
         - crypto
     - name: trusted-firmware-m
-      revision: 8df9cc8baf46252fd188bba1d87333a8daa9a5e8
-      path: modules/tee/tf-m/trusted-firmware-m
+      revision: 8d425f6a7676a3cd83c6309b4993fb65c713141e
+      url: https://github.com/GerardKoskamp/trusted-firmware-m.git
       groups:
         - tee
     - name: trusted-firmware-a
